@@ -1,3 +1,6 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: Joe B.I.E.ndenberg
+description: A Zeppelin project for Engineering IV, 2022-2023
