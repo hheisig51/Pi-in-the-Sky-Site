@@ -2,12 +2,6 @@
 
 ## Table of Contents
 
-<style>
-a{
-  color:#0C519D
-}
-</style>
-
 README.md:
 
 - [README.md](/README.md)
